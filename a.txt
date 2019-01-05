@@ -3,4 +3,8 @@ bbb
 ccc
 ddd
 fff
+<<<<<<< HEAD
 oooo
+=======
+ttt
+>>>>>>> 54331abdef4e5f6374705b6131314f231f7a9808
